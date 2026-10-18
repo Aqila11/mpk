@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "feather-icons": "^4.29.2"
+  },
+  "allowScripts": {
+    "core-js@3.50.0": true
+  }
+}
